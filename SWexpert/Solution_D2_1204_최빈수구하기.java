@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution_D2_1204_최빈수구하기_전수현 {
+public class Solution_D2_1204_최빈수구하기 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

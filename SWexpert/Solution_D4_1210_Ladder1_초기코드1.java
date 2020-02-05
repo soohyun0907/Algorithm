@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution_D4_1210_Ladder1_전수현 {
+public class Solution_D4_1210_Ladder1 {
 
 	static int[][] ladder;
 	static int size = 100;

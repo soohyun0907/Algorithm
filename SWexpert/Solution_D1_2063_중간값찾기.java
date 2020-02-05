@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Solution_D1_2063_중간값찾기_전수현 {
+public class Solution_D1_2063_중간값찾기 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

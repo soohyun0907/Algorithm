@@ -1,6 +1,6 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
-public class Main_J1314_문자사각형2_전수현 {
+public class Main_J1314_문자사각형2 {
 
 	static char[][] charArray;
 	static int n;

@@ -1,6 +1,6 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
-public class Main_J1304_숫자사각형3_전수현 {
+public class Main_J1304_숫자사각형3 {
 
 	static int[][] intSquare;
 

@@ -1,6 +1,6 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
-public class Main_J1430_숫자의개수_전수현 {
+public class Main_J1430_숫자의개수 {
 
 	public static void main(String[] args) {
 

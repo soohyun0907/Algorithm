@@ -1,6 +1,6 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
-public class Main_J1341_구구단2_전수현 {
+public class Main_J1341_구구단2 {
 
 	public static void main(String[] args) {
 

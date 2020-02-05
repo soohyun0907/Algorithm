@@ -1,6 +1,6 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
-public class Main_J2046_숫자사각형4_전수현 {
+public class Main_J2046_숫자사각형4 {
 
 	public static void main(String[] args) {
 

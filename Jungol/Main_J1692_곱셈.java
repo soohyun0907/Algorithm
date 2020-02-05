@@ -1,6 +1,6 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
-public class Main_J1692_곱셈_전수현 {
+public class Main_J1692_곱셈 {
 
 	public static void main(String[] args) {
 

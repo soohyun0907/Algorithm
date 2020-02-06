@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution_D3_1289 {
+public class Solution_D3_1289_원재의 메모리 복구하기 {
 	
 	public static int count(String memory) {
 		int edit = 0;

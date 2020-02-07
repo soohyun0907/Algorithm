@@ -1,15 +1,11 @@
-
 package baekjoon;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 import java.util.StringTokenizer;
 
 /**
@@ -66,10 +62,8 @@ public class Main_B_14888_연산자끼워넣기 {
 		SIZE = calculate.size();
 		operationInsert(0);
 		
-		Collections.sort(calculateResult);
-		
-		answer.append(calculateResult.get(calculateResult.size()-1))
-		.append("\n").append(calculateResult.get(0));
+		answer.append(Collections.max(calculateResult))
+		.append("\n").append(Collections.min(calculateResult));
 		// 첫째줄에 최대값, 둘째줄에 최솟값 출력
 		System.out.println(answer);
 		

@@ -1,26 +1,14 @@
-package com.ssafy.ws;
+﻿package com.ssafy.ws;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 import java.util.StringTokenizer;
 
-class Town {
-	int x;
-	int y;
-
-	public Town(int x, int y) {
-		this.x = x;
-		this.y = y;
-	}
-}
-
-public class Main_B_2667_단지번호붙이기_전수현_bfs {
+public class Main_B_2667_단지번호붙이기_dfs {
 
 	static int N, house = 0, town = 0;
 	static int[][] map;
@@ -47,17 +35,17 @@ public class Main_B_2667_단지번호붙이기_전수현_bfs {
 			}
 		}
 
-		// bfs
+		// dfs
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				if (map[i][j] == 1 && !visited[i][j]) {
 					house = 0;
-					bfs(i, j);
+					dfs(i, j);
 					houseArray.add(house);
 					town++;
 				}
 			}
-		}
+		} 
 
 		Collections.sort(houseArray);
 
@@ -70,33 +58,21 @@ public class Main_B_2667_단지번호붙이기_전수현_bfs {
 		in.close();
 	}
 
-	// bfs - 주변을 탐색해서 1을 만나면 큐에 넣어놓고 큐에서 차례가 오면 그 때 주변 다시 탐색하는 형식
-	private static void bfs(int i, int j) {
-		Queue<Town> queue = new LinkedList<Town>();
+	// dfs - 재귀를 타고 들어가서 깊게 들어가는 구조.
+	// 주변에 같은 1을 만나면 이동해서 다시 탐색하는 형식
+	private static void dfs(int i, int j) {
 		visited[i][j] = true;
-		Town town = new Town(i, j);
-		queue.offer(town);
 		house++;
-		int currentX, currentY;
-		while (!queue.isEmpty()) {
-			currentX = queue.peek().x;
-			currentY = queue.poll().y;
+		for (int n = 0; n < deltaX.length; n++) {
+			int nextX = i + deltaX[n];
+			int nextY = j + deltaY[n];
 
-			for (int n = 0; n < deltaX.length; n++) {
-				int nextX = currentX + deltaX[n];
-				int nextY = currentY + deltaY[n];
+			if (nextX < 0 || nextX >= N || nextY < 0 || nextY >= N)
+				continue;
 
-				if (nextX < 0 || nextX >= N || nextY < 0 || nextY >= N)
-					continue;
-
-				if (map[nextX][nextY] == 1 && !visited[nextX][nextY]) {
-					visited[nextX][nextY] = true;
-					town = new Town(nextX, nextY);
-					queue.offer(town);
-					house++;
-				}
+			if (map[nextX][nextY] == 1 && !visited[nextX][nextY]) {
+				dfs(nextX, nextY);
 			}
 		}
 	}
-
 }

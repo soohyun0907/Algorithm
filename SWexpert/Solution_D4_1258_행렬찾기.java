@@ -3,6 +3,8 @@ package SWExpert;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.StringTokenizer;
 
 public class Solution_D4_1258_행렬찾기 {
@@ -12,7 +14,7 @@ public class Solution_D4_1258_행렬찾기 {
 	static int[][] matrix;
 	static boolean[][] visited;
 
-	static int[][] subMatrix = new int[20][3];
+	static int[][] subMatrix;
 	static int subMatCount = 0;
 
 	static int[] deltaX = { -1, 1, 0, 0 }; // 상하좌우
@@ -34,6 +36,7 @@ public class Solution_D4_1258_행렬찾기 {
 			st = new StringTokenizer(in.readLine(), " ");
 			N = Integer.parseInt(st.nextToken());
 			if (N <= 100) {
+				subMatrix = new int[20][3];
 				matrix = new int[N + 1][N + 1];
 				visited = new boolean[N + 1][N + 1];
 
@@ -59,39 +62,21 @@ public class Solution_D4_1258_행렬찾기 {
 				}
 
 				// 발견한 부분 행렬 크기가 작은 순으로 배열하기
-				for (int i = 0; i < subMatCount - 1; i++) {
-					for (int j = i + 1; j < subMatCount; j++) {
-						if (Integer.compare(subMatrix[i][2], subMatrix[j][2]) > 0) {
-							int tempX = subMatrix[i][0];
-							int tempY = subMatrix[i][1];
-							int tempZ = subMatrix[i][2];
-							subMatrix[i][0] = subMatrix[j][0];
-							subMatrix[i][1] = subMatrix[j][1];
-							subMatrix[i][2] = subMatrix[j][2];
-							subMatrix[j][0] = tempX;
-							subMatrix[j][1] = tempY;
-							subMatrix[j][2] = tempZ;
+				Arrays.sort(subMatrix, new Comparator<int[]>() {
+					@Override
+					public int compare(int[] o1, int[] o2) {
+						int result = o1[2] - o2[2];
+						if (result == 0) {
+							result = o1[0] - o2[0];
 						}
-						// 크기가 같다면 행이 작은 순으로 출력하기
-						else if (Integer.compare(subMatrix[i][2], subMatrix[j][2]) == 0) {
-							if (Integer.compare(subMatrix[i][0], subMatrix[j][0]) > 0) {
-								int tempX = subMatrix[i][0];
-								int tempY = subMatrix[i][1];
-								int tempZ = subMatrix[i][2];
-								subMatrix[i][0] = subMatrix[j][0];
-								subMatrix[i][1] = subMatrix[j][1];
-								subMatrix[i][2] = subMatrix[j][2];
-								subMatrix[j][0] = tempX;
-								subMatrix[j][1] = tempY;
-								subMatrix[j][2] = tempZ;
-							}
-						}
+						return result;
 					}
-				}
+				});
 
 				answer.append(subMatCount).append(" ");
-				for (int i = 0; i < subMatCount; i++) {
-					answer.append(subMatrix[i][0]).append(" ").append(subMatrix[i][1]).append(" ");
+				for (int i = 0; i < subMatrix.length; i++) {
+					if (subMatrix[i][0] != 0)
+						answer.append(subMatrix[i][0]).append(" ").append(subMatrix[i][1]).append(" ");
 				}
 				answer.append("\n");
 			}
@@ -108,7 +93,7 @@ public class Solution_D4_1258_행렬찾기 {
 			nextX = i + deltaX[n];
 			nextY = j + deltaY[n];
 
-			if (nextX < 0 || nextX > N + 1 || nextY < 0 || nextY > N + 1) {
+			if (nextX < 0 || nextX >= N + 1 || nextY < 0 || nextY >= N + 1) {
 				continue;
 			}
 

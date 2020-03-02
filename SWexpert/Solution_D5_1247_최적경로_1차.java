@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-/*class Point {
+class Point {
 	int x;
 	int y;
 
@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 		this.x = x;
 		this.y = y;
 	}
-}*/
+}
 
 /**
  * @author soohyun

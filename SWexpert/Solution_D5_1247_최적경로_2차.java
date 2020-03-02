@@ -22,7 +22,6 @@ public class Solution_D5_1247_최적경로_2차 {
 
 	static int N, compX, compY, houseX, houseY, min = 1000;
 	static Point[] customer = new Point[10];
-	static int[] permu;
 	static StringBuilder answer = new StringBuilder();
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
@@ -34,7 +33,6 @@ public class Solution_D5_1247_최적경로_2차 {
 			answer.append("#").append(t).append(" ");
 			min = 1000;
 			N = Integer.parseInt(in.readLine());
-			permu = new int[N];
 			st = new StringTokenizer(in.readLine(), " ");
 			compX = Integer.parseInt(st.nextToken());
 			compY = Integer.parseInt(st.nextToken());

@@ -5,9 +5,9 @@ import java.util.StringTokenizer;
 
 /**
  * @author soohyun
- * 메모리 : 33,832 kb
+ * 메모리 : 32,484 kb
  * 실행시간 : 201 ms
- * 코드길이 : 1,970 B
+ * 코드길이 : 1,996 B
  */
 
 public class Solution_4012_요리사 {
@@ -54,6 +54,8 @@ public class Solution_4012_요리사 {
 			cook(food[0]);
 			return;
 		}
+		
+		if(min == 0) return;
 
 		for (int i = 1; i < N + 1; i++) {
 			if (visited[i])

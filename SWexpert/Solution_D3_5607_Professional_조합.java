@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /**
+ * 참고 : https://www.acmicpc.net/blog/view/29
  * @author soohyun 
  * 메모리 : 28,044 KB 
  * 실행시간 : 390 ms 

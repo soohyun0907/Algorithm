@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
  * 코드길이 : 2,601
  */
 
-public class Solution_D4_1251_하나로 {
+public class Solution_D4_1251_하나로_Prim {
 
 	static int N;
 	static long[][] island;

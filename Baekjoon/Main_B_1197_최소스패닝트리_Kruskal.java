@@ -15,7 +15,7 @@ import java.util.StringTokenizer;
  * 소요시간 : 1H
  */
 
-public class Main_B_1197_최소스패닝트리 {
+public class Main_B_1197_최소스패닝트리_Kruskal {
 
 	static int[] parents;
 

@@ -7,13 +7,13 @@ import java.util.StringTokenizer;
 
 /**
  * @author soohyun
- * 메모리 : 14,004 KB
- * 실행시간 : 96 ms
+ * 메모리 : 14,000 KB
+ * 실행시간 : 92 ms
  * 코드길이 : 1,897 B
  * 소요시간 : 1H 20M
  */
 
-public class Main_B_4386_별자리만들기 {
+public class Main_B_4386_별자리만들기_Kruskal {
 
 	static int parents[];
 

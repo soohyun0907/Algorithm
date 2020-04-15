@@ -1,4 +1,4 @@
-# Algorithm
+# 3190Algorithm
 
 ## 프로젝트 이름 규칙
 
@@ -7,6 +7,10 @@ JUNGOL : Main_J\_문제번호\_문제이름
 BOJ : Main_B\_문제번호\_문제이름
 
 SWEA : Solution\_문제난이도\_문제번호\_문제이름
+
+## 2020-04-15
+
+- [BOJ_S1] Main_B_3190_뱀
 
 ## 2020-04-14
 

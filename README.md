@@ -8,6 +8,16 @@ BOJ : Main_B\_문제번호\_문제이름
 
 SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
+Programmers : Solution_문제번호\_문제이름
+
+## 2020-05-03
+
+- Solution_12969_직사각형별찍기.js
+- Solution_12954_x만큼간격이있는n개의숫자.js
+- Solution_12950_행렬의덧셈.js
+- Solution_12948_핸드폰번호가리기.js
+- Solution_12947_하샤드수.js
+
 ## 2020-05-02
 
 - [SWEA_D4] Solution_D4_4050_재관이의대량할인

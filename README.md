@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-04
+
+- Solution_12944_평균구하기.js
+
 ## 2020-05-03
 
 - Solution_12969_직사각형별찍기.js

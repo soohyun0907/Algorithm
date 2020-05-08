@@ -10,6 +10,12 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-07
+
+- [BOJ_G5] Main_B_2146_다리만들기.java
+  - 전역변수로 선언한 후 Arrays.fill()을 이용하여 초기화 할 때가 메모리와 시간면에서 훨씬 효율적이다.
+- [BOJ_S3] Main_B_6987_월드컵.java
+
 ## 2020-05-06
 
 - [BOJ_G5] Main_B_15686_치킨배달.java

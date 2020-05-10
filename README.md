@@ -10,6 +10,11 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-10
+
+- [SWEA] Solution_D3_3307_최장증가부분수열.java - LIS
+- [SWEA] Solution_D3_5215_햄버거다이어트\_DP.java - 재풀이
+
 ## 2020-05-07
 
 - [BOJ_G5] Main_B_2146_다리만들기.java

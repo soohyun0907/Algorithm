@@ -10,6 +10,12 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-13
+
+- [BOJ_G5] Main_B_16236_아기상어.java
+- [BOJ_G2] Main_B_2252_줄세우기.java
+- [SWEA] Solution_D5_1798_범준이의제주도여행계획.java
+
 ## 2020-05-11
 
 - [SWEA] Solution_5658_보물상자비밀번호.java

@@ -10,6 +10,12 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-14
+
+- [BOJ_G1] Main_B_1194_달이차오른다가자.java
+  - 3차원 방문배열을 통한 방문처리 / 비트마스크
+- [SWEA] Solution_D4_5643_키순서.java
+
 ## 2020-05-13
 
 - [BOJ_G5] Main_B_16236_아기상어.java

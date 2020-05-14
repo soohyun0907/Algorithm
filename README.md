@@ -14,6 +14,7 @@ Programmers : Solution_문제번호\_문제이름
 
 - [BOJ_G1] Main_B_1194_달이차오른다가자.java
   - 3차원 방문배열을 통한 방문처리 / 비트마스크
+- [BOJ_S1] Main_B_2468_안전영역.java
 - [SWEA] Solution_D4_5643_키순서.java
 
 ## 2020-05-13

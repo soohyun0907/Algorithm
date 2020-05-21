@@ -10,6 +10,12 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-21
+
+- [SWEA] Solution_D5_7206_숫자게임.java
+- [BOJ_G4] Main_B_16235\_나무재테크\_1/2/3차.java
+- [BOJ_G4] Main_B_1062_가르침.java
+
 ## 2020-05-17
 
 - [SWEA] Solution_5644_무선충전.java

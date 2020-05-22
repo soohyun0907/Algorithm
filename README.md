@@ -10,6 +10,15 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-22
+
+- [SWEA] Solution_D4_7208_지도칠하기.java
+- [SWEA] Solution_2112_보호필름.java
+- [SWEA] Solution_4013_특이한자석.java
+- [BOJ_G4] Main_B_1062_가르침\_2차.java - 비트마스크
+- [BOJ_S3] Main_B_15650_N과M2_BitMask.java - (재풀이) 비트마스크
+- [BOJ_G3] Main_B_1238_파티.java
+
 ## 2020-05-21
 
 - [SWEA] Solution_D5_7206_숫자게임.java

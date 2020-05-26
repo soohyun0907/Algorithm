@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-26
+
+- [BOJ_G5] Main_B_14500_테트로미노.java - 좀 더 최적화할 수 있지 않을까..?
+
 ## 2020-05-25
 
 - [BOJ_G4] Main_B_2573_빙산.java

@@ -10,6 +10,14 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-28
+
+- [SWEA] Solution_D4_3234\_준환이의양팔저울\_개선.java - 수업 듣고 어떤 부분을 가치지기 했는지 이해했음!
+- [SWEA] Solution_1767\_프로세서연결하기\_부분집합/조합.java
+- [SWEA] Solution_1953_탈주범검거.java
+- [BOJ_S1] Main_B_2565_전깃줄.java - 한번에 알고리즘을 어떤걸 적용할지 찾지 못해서 알고리즘 분류를 참고한 후 풀었다.
+- [BOJ_G4] Main_B_17142_연구소3.java
+
 ## 2020-05-26
 
 - [BOJ_G5] Main_B_14500_테트로미노.java - 좀 더 최적화할 수 있지 않을까..?

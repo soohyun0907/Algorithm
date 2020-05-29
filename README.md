@@ -10,6 +10,11 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-29
+
+- [SWEA] Solution_4014_활주로건설.java
+- [SWEA] Solution_1953_탈주범검거\_수업\_BFS/DFS.java
+
 ## 2020-05-28
 
 - [SWEA] Solution_D4_3234\_준환이의양팔저울\_개선.java - 수업 듣고 어떤 부분을 가치지기 했는지 이해했음!

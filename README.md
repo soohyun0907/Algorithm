@@ -10,6 +10,13 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-05-30
+
+- [SWEA] Solution_D3_3307\_최장증가부분수열\_LIS\_DP/NlogN.java
+  - LIS 알고리즘 길이만 출력하는 코드
+- [BOJ_G4] Main_B_14002_가장긴증가하는부분수열4_DP/이진탐색.java
+  -  LIS 알고리즘 길이와 경로출력까지!
+
 ## 2020-05-29
 
 - [SWEA] Solution_4014_활주로건설.java

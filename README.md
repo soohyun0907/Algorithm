@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-06-02
+
+- [BOJ_G2] Main_B_2568_전깃줄2.java
+
 ## 2020-05-30
 
 - [SWEA] Solution_D3_3307\_최장증가부분수열\_LIS\_DP/NlogN.java

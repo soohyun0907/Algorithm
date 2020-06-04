@@ -10,6 +10,15 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-06-04
+
+- [Programmers] Solution_쇠막대기.java
+  - [SWEA] Solution_D4_5432_쇠막대기자르기 같은 문제
+- [Programmers] Solution_문자열압출.java
+- [Programmers] Solution_타겟넘버.java
+- [Programmers] Solution_challenge_id_904.java
+- [SWEA] Solution_D4_6109_추억의2048게임.java
+
 ## 2020-06-02
 
 - [BOJ_G2] Main_B_2568_전깃줄2.java

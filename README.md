@@ -10,6 +10,14 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-06-05
+
+- [Programmers] Solution_순위.java
+- [Programmers] Solution_완주하지못한선수.java
+- [Programmers] Solution_가장먼노드.java
+  - 밑에 백준 6118. 숨바꼭질 문제와 같은 문제
+- [BOJ_S1] Main_B_6118_숨바꼭질.java
+
 ## 2020-06-04
 
 - [Programmers] Solution_쇠막대기.java

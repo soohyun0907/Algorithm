@@ -13,6 +13,7 @@ Programmers : Solution_문제번호\_문제이름
 ## 2020-06-22
 
 - [BOJ_G5] Main_B_14503_로봇청소기.java
+- [BOJ_G2] Main_B_12100_2048Easy.java
 
 ## 2020-06-18
 

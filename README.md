@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-06-24
+
+- [BOJ_G5] Main_B_14502_연구소.java
+
 ## 2020-06-23
 
 - [BOJ_G5] Main_B_14499_주사위굴리기.java

@@ -10,6 +10,11 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-06-25
+
+- [BOJ_G3] Main_B_14890_경사로.java
+- [BOJ_G5] Main_B_15683_감시.java - 재풀이 필요
+
 ## 2020-06-24
 
 - [BOJ_G5] Main_B_14502_연구소.java

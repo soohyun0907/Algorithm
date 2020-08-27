@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-08-27
+
+- [SWEA] Solution_D5_7793\_오나의여신님\_재풀이.java
+
 ## 2020-06-26
 
 - [BOJ_S1] Main_B_14891_톱니바퀴.java

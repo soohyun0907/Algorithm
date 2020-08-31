@@ -4,6 +4,14 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+/**
+ * @author soohyun
+ * 메모리 : 23,620 KB
+ * 실행시간 : 236 ms
+ * 코드길이 : 2,566 B
+ * 소요시간 : 1H
+ */
+
 public class Solution_3378_D4_스타일리쉬들여쓰기 {
 
 	static int p, q;

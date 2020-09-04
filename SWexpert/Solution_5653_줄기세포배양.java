@@ -7,6 +7,14 @@ import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/**
+ * @author soohyun
+ * 메모리 : 94,044 KB
+ * 실행시간 : 345 ms
+ * 코드길이 : 2,955 B
+ * 소요시간 : 1H
+ */
+
 public class Solution_5653_줄기세포배양 {
 
 	static int size = 400, N, M, K, res;

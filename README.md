@@ -10,9 +10,17 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-09-05
+
+- [SWEA] Solution_D4_7699\_수지의수지맞는여행\_재풀이.java
+
+## 2020-09-04
+
+- [SWEA] Solution_5653\_줄기세포배양\_PQ.java - 재풀이 필요
+
 ## 2020-09-03
 
-- [SWEA] Solution_5653_줄기세포배양.java
+- [SWEA] Solution_5653_줄기세포배양.java - 재풀이 필요
 
 ## 2020-09-02
 
@@ -20,7 +28,7 @@ Programmers : Solution_문제번호\_문제이름
 
 ## 2020-08-31
 
-- [SWEA] Solution_3378_D4_스타일리쉬들여쓰기.java
+- [SWEA] Solution_3378_D4\_스타일리쉬들여쓰기\_재풀이.java
 
 ## 2020-08-29
 
@@ -179,9 +187,9 @@ Programmers : Solution_문제번호\_문제이름
 
 ## 2020-05-02
 
-- [SWEA_D4] Solution_D4_4050_재관이의대량할인.java
+- [SWEA] Solution_D4_4050_재관이의대량할인.java
   - Arrays.sort()와 Comparator를 사용하는 두가지 방법으로 풀었다. Arrays.sort의 결과가 더 빠르고 메모리도 더욱 적게 사용했다.
-- [SWEA_D4] Solution_D4_4366_정식이의은행업무.java
+- [SWEA] Solution_D4_4366_정식이의은행업무.java
 
 ## 2020-04-23
 
@@ -224,7 +232,7 @@ Programmers : Solution_문제번호\_문제이름
 
 ## 2020-04-09
 
-- [SWEA_D4] Solution\_D4\_1251\_하나로.java
+- [SWEA] Solution\_D4\_1251\_하나로.java
   - 크루스칼과 프림 알고리즘.
   - 프림도 우선순위 큐를 사용하는 방법 ( Solution\_D4\_1251\_하나로_Prim.java)과 사용하지 않는 방법( Solution\_D4\_1251\_하나로\_Prim2.java)로 풀었다.
 - [BOJ_G4] Main_B_1197_최소스패닝트리.java
@@ -237,3 +245,116 @@ Programmers : Solution_문제번호\_문제이름
   - 처음에 BFS로 시도했다가 메모리 초과가 나와서 DFS로 구현.
 - [BOJ\_S1] Main_B_7569_토마토.java
   - BFS
+
+## 2020-04-05
+
+- [SWEA] Solution_D4_5659_다항식계산.java
+
+## 2020-04-03
+
+- [SWEA] Solution_D4_4530_극한의청소작업.java
+- [BOJ_S2] Main_B_1260_DFS와BFS.java
+- [BOJ_S3] Main_B_2606\_바이러스\_dfs/union.java
+
+## 2020-04-02
+
+- [SWEA] Solution_D4_9760_PokerGame.java
+- [BOJ_B2] Main_B_2675_문자열반복.java
+
+## 2020-03-17
+
+- [BOJ_S3] Main_B_14889_스타트와링크.java
+
+## 2020-03-16
+
+- [SWEA] Solution_D4_1868_파핑파핑지뢰찾기.java
+
+## 2020-03-13
+
+- [SWEA] Solution_D4_3378_스타일리쉬들여쓰기.java
+
+## 2020-03-12
+
+- [SWEA] Solution_D4_7701\_염라대왕의이름정렬.java
+- [SWEA] Solution_D4_7701\_염라대왕의이름정렬_pq.java
+- [SWEA] Solution_D4_7701\_염라대왕의이름정렬_수업.java
+- [SWEA] Solution_D4_7701\_염라대왕의이름정렬_수업2.java
+
+## 2020-03-11
+
+- [BOJ_G4] Main_B_1922_네트워크연결.java
+
+## 2020-03-10
+
+- [SWEA] Solution_5656_벽돌깨기.java
+- [SWEA] Solution_5656\_벽돌깨기\_수업.java
+
+## 2020-03-09
+
+- [BOJ_S2] Main_B_1914_하노이탑.java
+
+## 2020-03-08
+
+- [SWEA] Solution_D5_7793_오나의여신님.java
+- [BOJ] N과M 9 ~ 12
+
+## 2020-03-06
+
+- [SWEA] Solution_D4_1808_지희의고장난계산기.java
+
+## 2020-03-04
+
+- [BOJ_G4] Main_B_2206_벽부수고이동하기.java
+
+## 2020-03-03
+
+- [SWEA] Solution_D4_7699_수지의수지맞는여행.java
+- [SWEA] Solution_D4_8382_방향전환.java
+
+## 2020-03-02
+
+- [SWEA] Solution_D5_1247\_최적경로\_1/2차.java
+
+## 2020-02-29
+
+- [BOJ_S4] Main_B_14501_퇴사.java
+
+## 2020-02-28
+
+- [SWEA] Solution_D3_1209_Sum.java
+- [SWEA] Solution_2115_벌꿀채취.java
+
+## 2020-02-25
+
+- [BOJ_G5] Main_B_3055_탈출.java
+
+## 2020-02-20
+
+- [SWEA] Solution_D3_1244_최대상금.java
+- [BOJ_S2] Main_B_1931_회의실배정.java
+- [BOJ_S3] Main_B_2630_색종이만들기.java
+
+## 2020-02-14
+
+- [BOJ_S3] Main_B_10974_모든순열.java
+- [BOJ] N과M 1 ~ 8
+- [BOJ_G4] Main_B_17135_캐슬디펜스.java - 재풀이 필요
+
+## 2020-02-13
+
+- [SWEA] Solution_D4_3289_서로소집합.java
+- [SWEA] Solution_D4_1233_사칙연산유효성검사.java
+
+## 2020-02-11
+
+- [SWEA] Solution_D4_1861_정사각형방.java
+- [SWEA] Solution_D3_9317_석찬이의받아쓰기.java
+- [BOJ_B2] Main_B_13458_시험감독.java
+- [BOJ_S1] Main_B_2667\_단지번호붙이기\_dfs/bfs.java
+
+## 2020-02-10
+
+- [SWEA] Solution_D4_4408_자기방으로돌아가기.java
+- [SWEA] Solution_D3_8931_제로.java
+- [SWEA] Solution_D3_1873_상호의배틀필드.java
+- [SWEA] Solution_D1_2072_홀수만더하기.java

@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
  * 소요시간 : 1H
  */
 
-public class Solution_3378_D4_스타일리쉬들여쓰기 {
+public class Solution_D4_3378_스타일리쉬들여쓰기_재풀이 {
 
 	static int p, q;
 	static int[] ans;

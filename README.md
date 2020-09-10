@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-09-10
+
+- [SWEA] Solution_2117_홈방범서비스.java
+
 ## 2020-09-05
 
 - [SWEA] Solution_D4_7699\_수지의수지맞는여행\_재풀이.java
@@ -28,7 +32,7 @@ Programmers : Solution_문제번호\_문제이름
 
 ## 2020-08-31
 
-- [SWEA] Solution_3378_D4\_스타일리쉬들여쓰기\_재풀이.java
+- [SWEA] Solution_D4\_3378_스타일리쉬들여쓰기\_재풀이.java
 
 ## 2020-08-29
 

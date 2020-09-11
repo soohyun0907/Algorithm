@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-09-11
+
+- [SWEA] Solution_D4_3349_최솟값으로이동하기.java - 재풀이 필요
+
 ## 2020-09-10
 
 - [SWEA] Solution_2117_홈방범서비스.java

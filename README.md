@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-09-16
+
+- [BOJ_S2] Main_B_1012_유기농배추.java
+
 ## 2020-09-15
 
 - [BOJ_S1] Main_B_9205_맥주마시면서걸어가기.java

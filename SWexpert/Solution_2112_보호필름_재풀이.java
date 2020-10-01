@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
  * 코드길이 : 2,126 B
  */
 
-public class Solution_2112_보호필름 {
+public class Solution_2112_보호필름_재풀이 {
 
 	static int D, W, K, min;
 	static int[][] film;

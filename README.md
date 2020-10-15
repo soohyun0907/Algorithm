@@ -10,6 +10,11 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-10-15
+
+- [BOJ_G5] Main_B_12865_평범한배낭.java
+  - DP는 아직 어렵다.....
+
 ## 2020-10-13
 
 - [BOJ_G4] Main_B_15685_드래곤커브.java

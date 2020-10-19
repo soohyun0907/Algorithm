@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-10-20
+
+- [BOJ_S1] Main_B_20055_컨베이어벨트위의로봇.java
+
 ## 2020-10-19
 
 - [Programmers] Solution_두개뽑아서더하기.java

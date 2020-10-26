@@ -10,6 +10,11 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-10-26
+
+- [BOJ_G5] Main_B_14719_빗물.java
+- [BOJ_S2] Main_B_11053_가장긴증가하는부분수열.java
+
 ## 2020-10-25
 
 - [BOJ_G4] Main_B_2638_치즈.java

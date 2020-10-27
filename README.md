@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-10-27
+
+- [BOJ_S3] Main_B_2003_수들의합2.java
+
 ## 2020-10-26
 
 - [BOJ_G5] Main_B_14719_빗물.java

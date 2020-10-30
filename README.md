@@ -10,6 +10,10 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-10-30
+
+- [BOJ_G5] Main_B_2470_두용액.java
+
 ## 2020-10-29
 
 - [BOJ_G1] Main_B_1175_배달.java

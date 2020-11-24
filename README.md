@@ -10,6 +10,11 @@ SWEA : Solution\_문제난이도\_문제번호\_문제이름
 
 Programmers : Solution_문제번호\_문제이름
 
+## 2020-11-24
+
+- [BOJ_G5] Main_B_17471_게리맨더링.java - 부분집합이랑 BFS를 이용해서 풀었다.
+  - 조합이랑 BFS로 푸는 방법, Union-find로 푸는 방법으로도 재풀이 필요!
+
 ## 2020-11-23
 
 - [BOJ_G4] Main_B_1987_알파벳.java
